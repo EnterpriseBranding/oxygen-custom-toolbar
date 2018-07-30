@@ -4,6 +4,10 @@ Adds a sliding down panel for quickly adding elements in [Oxygen](http://oxygenb
 
 ![Screenshot](https://i0.wp.com/wpdevdesign.com/wp-content/uploads/2018/07/custom-oxygen-toolbar-open.png?w=1680&ssl=1)
 
+Screencast: https://www.youtube.com/watch?v=3bFWEuaeobk
+
+Blog post: https://wpdevdesign.com/custom-oxygen-toolbar/
+
 ## Installation ##
 
 1. Make sure that Oxygen is installed and active.
