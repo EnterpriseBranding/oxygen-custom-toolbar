@@ -3,7 +3,7 @@
 Plugin Name:	Oxygen Custom Toolbar
 Plugin URI:		https://wpdevdesign.com/custom-oxygen-toolbar/
 Description:	Adds a thin horizontal bar at the top edge of browser in Oxygen editor. When hovered, slides down a panel having the various controls provided by Oxygen.
-Version:		1.0.0
+Version:		1.0.1
 Author:			Sridhar Katakam
 Author URI:		https://sridharkatakam.com
 License:		GPL-2.0+

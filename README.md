@@ -6,9 +6,10 @@ Adds a sliding down panel for quickly adding elements in [Oxygen](http://oxygenb
 
 ## Installation ##
 
-1. Click on the `Download ZIP` button at the right to download the plugin.
-2. Go to Plugins > Add New in your WordPress admin. Click on `Upload Plugin` and browse for the zip file.
-3. Activate the plugin.
+1. Make sure that Oxygen is installed and active.
+2. Click on the `Download ZIP` button at the right to download the plugin.
+3. Go to Plugins > Add New in your WordPress admin. Click on `Upload Plugin` and browse for the zip file.
+4. Activate the plugin.
 
 ## Usage ##
 
@@ -17,6 +18,9 @@ Adds a sliding down panel for quickly adding elements in [Oxygen](http://oxygenb
 3. Move mouse away to have the panel disappear.
 
 ## Changelog ##
+
+### 1.0.1 - July 30, 2018 ###
+* Commented out the code in place for checking if Oxygen is active. May need to update and test this later.
 
 ### 1.0.0 - July 30, 2018 ###
 * Initial Release
