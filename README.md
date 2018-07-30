@@ -2,6 +2,8 @@
 
 Adds a sliding down panel for quickly adding elements in Oxygen's editor.
 
+![Screenshot](https://i0.wp.com/wpdevdesign.com/wp-content/uploads/2018/07/custom-oxygen-toolbar-open.png?w=1680&ssl=1)
+
 ## Installation ##
 
 1. Click on the `Download ZIP` button at the right to download the plugin.
@@ -16,5 +18,5 @@ Adds a sliding down panel for quickly adding elements in Oxygen's editor.
 
 ## Changelog ##
 
-### 1.0.0 ### - July 30, 2018
+### 1.0.0 - July 30, 2018 ###
 * Initial Release
