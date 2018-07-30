@@ -1,0 +1,56 @@
+/* Custom styles by Sridhar Katakam */
+
+.my-controls {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+			align-items: center;
+	z-index: 1001;
+	-ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+	    background-color: #000;
+	position: absolute;
+	left: 50%;
+	top: 0;
+	-webkit-transform: translate(-50%, 10px);
+	transform: translate(-50%, -660px);
+	padding: 20px 20px 0 20px;
+	/* -webkit-transition: 0.2s;
+	transition: 0.2s; */
+	max-width: 780px;
+}
+
+.my-controls:hover {
+	-webkit-transform: translate(-50%, 0);
+	        transform: translate(-50%, 0);
+}
+
+.my-controls > div {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border: 1px dashed #444;
+	padding: 10px;
+}
+
+.my-controls .oxygen-add-section-element {
+	width: auto;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+
+.my-highlight,
+.my-containers > div,
+.my-text .oxygen-add-section-element:first-child,
+.my-text .oxygen-add-section-element:nth-child(2),
+.my-links .oxygen-add-section-element:nth-child(3),
+.my-visual .oxygen-add-section-element:first-child,
+.my-visual .oxygen-add-section-element:nth-child(3),
+.my-other > div,
+.my-dynamic .oxygen-add-section-element:first-child {
+	border: 1px solid;
+}
