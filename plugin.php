@@ -28,9 +28,10 @@ if ( ! defined( 'WPINC' ) ) {
 }
 
 // If Oxygen is not active, abort.
-if ( ! is_plugin_active( 'oxygen/functions.php' ) ) {
-	die;
-}
+// Commenting this out for now as this seems to cause issues..
+// if ( ! is_plugin_active( 'oxygen/functions.php' ) ) {
+// 	die;
+// }
 
 add_action( 'oxygen_before_toolbar_close', 'oct_add_controls' );
 /**
